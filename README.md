@@ -19,3 +19,6 @@ $ python
 >> run_all("path/to/logs/", "output_filename.xlsx")
 ```
 to create a single Excel sheet with all recovered data.
+
+Example output:
+![example output](https://raw.githubusercontent.com/minterm/MorePro/main/example%20output.png)
