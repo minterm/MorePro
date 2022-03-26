@@ -1,5 +1,5 @@
 # MorePro
-Save MorePro V19 Smartwatch data as Excel sheet via phone logs.
+Save [MorePro V19 Smartwatch](https://www.more-pro.com/products/v19-ecg-monitor-fitness-tracker) data as Excel sheet via phone logs.
 
 The MorePro app sucks because it only lets you export info as a screenshot.
 It would be much more useful to be able to save and keep the actual data.
